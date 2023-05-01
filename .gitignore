@@ -1,0 +1,12 @@
+/pytest_cache/
+/.vscode/
+/.coverage/
+/htmlcov/
+/Scripts/
+/Lib/
+/Include/
+
+__pycache__/
+
+.coverage
+pyvenv.cfg
